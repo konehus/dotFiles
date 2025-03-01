@@ -1,0 +1,8 @@
+# Ignore secrets
+*.key
+*.pem
+*.env
+
+# Ignore temporary files
+*.swp
+*.bak
